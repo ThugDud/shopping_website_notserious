@@ -1,0 +1,31 @@
+.apep {
+  background-color: #ffe4f7;
+}
+
+.lolja {
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+}
+
+.marginleft {
+  margin-left: 50px;
+  font-size: 60px;
+  text-shadow: 5px 5px #558ABB;
+}
+
+.butao-guia {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('../public/fonts/Raleway/static/Raleway-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Caveat';
+  src: url('../public/fonts/Caveat/Caveat-Bold.ttf');
+}
